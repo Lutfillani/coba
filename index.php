@@ -150,7 +150,7 @@ if ( !isset($_SESSION["login"]) ) {
 <hr>
 <br>
 
-<h2 id="terbaru">Terbaru</h2>
+<h1>Produk Terbaru</h1>
 
 <?php foreach ($query as $produk) : ?>
 
