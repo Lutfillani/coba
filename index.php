@@ -198,7 +198,7 @@ if ( !isset($_SESSION["login"]) ) {
 
 <footer>
 	<div>
-		2019 &copy; Tumbas | All Rights Reserved
+		2019 &copy; Coba | All Rights Reserved
 	</div>
 </footer>
 
